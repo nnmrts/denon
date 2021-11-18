@@ -7,6 +7,11 @@ The format is based on [Keep a Changelog], and this project adheres to
 
 ## [2.4.10] - 2021-11-18
 
+### Bug Fixes
+
+- deno 1.16 support ([`065100b`])
+- replace `SIGKILL` with `SIGTERM` ([`4592a41`])
+
 ## [2.4.9] - 2021-09-21
 
 ### Bug Fixes
